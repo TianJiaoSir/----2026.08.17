@@ -1,4 +1,4 @@
-# 260700060-赵子杰-技术分享
+# 赵子杰-技术分享
 
 # Section1：入职初体验 
 
@@ -106,7 +106,7 @@
 
 互相之间用句点 `.` 隔开 
 
-![](.img\版本号.png)
+<img width="1308" height="617" alt="版本号" src="https://github.com/user-attachments/assets/9b6efb8f-6882-4cb5-9ebe-2a71c60bb403" />
 
 **主版本号**
 
@@ -165,7 +165,7 @@ https://leetcode.cn/problems/compare-version-numbers/
 >
 > 以下是我在手机里找到的bilibili软件的版本日志
 >
-> ![img](.img\版本更新日志.png)
+> <img width="576" height="1222" alt="版本更新日志" src="https://github.com/user-attachments/assets/cba6105f-4db8-4147-af6d-02c9ce9661d4" />
 >
 > 我的npm主页：
 >
